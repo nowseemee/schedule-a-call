@@ -1,0 +1,20 @@
+{
+  "name": "schedule-a-call",
+  "version": "1.0.0",
+  "repository": "https://github.com/nowseemee/schedule-a-call.git",
+  "author": "Daniel Beck <nowseemee@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "react-scripts": "^1.1.4"
+  },
+  "dependencies": {
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "react-router": "^4.3.1",
+    "react-router-dom": "^4.3.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  }
+}
