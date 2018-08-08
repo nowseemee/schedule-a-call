@@ -18,8 +18,7 @@ const styles = {
 
   rightBox: css`
     padding-left: 8px;
-    > a {
-    }
+    width: 100%;
   `
 };
 
